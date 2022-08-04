@@ -1,0 +1,10 @@
+C:\Users\eezesta\source\repo_learning\MicroservicesAndEventSourcing\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\netcoreapp3.1\Post.Query.Domain.csproj.AssemblyReference.cache
+C:\Users\eezesta\source\repo_learning\MicroservicesAndEventSourcing\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\netcoreapp3.1\Post.Query.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eezesta\source\repo_learning\MicroservicesAndEventSourcing\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\netcoreapp3.1\Post.Query.Domain.AssemblyInfoInputs.cache
+C:\Users\eezesta\source\repo_learning\MicroservicesAndEventSourcing\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\netcoreapp3.1\Post.Query.Domain.AssemblyInfo.cs
+C:\Users\eezesta\source\repo_learning\MicroservicesAndEventSourcing\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\netcoreapp3.1\Post.Query.Domain.csproj.CoreCompileInputs.cache
+C:\Users\eezesta\source\repo_learning\MicroservicesAndEventSourcing\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\netcoreapp3.1\Post.Query.Domain.deps.json
+C:\Users\eezesta\source\repo_learning\MicroservicesAndEventSourcing\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\netcoreapp3.1\Post.Query.Domain.dll
+C:\Users\eezesta\source\repo_learning\MicroservicesAndEventSourcing\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\netcoreapp3.1\Post.Query.Domain.pdb
+C:\Users\eezesta\source\repo_learning\MicroservicesAndEventSourcing\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\netcoreapp3.1\Post.Query.Domain.dll
+C:\Users\eezesta\source\repo_learning\MicroservicesAndEventSourcing\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\netcoreapp3.1\Post.Query.Domain.pdb

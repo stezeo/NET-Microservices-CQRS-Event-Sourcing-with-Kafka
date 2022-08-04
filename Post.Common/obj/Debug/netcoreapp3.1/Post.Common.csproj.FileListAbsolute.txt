@@ -1,0 +1,13 @@
+C:\Users\eezesta\source\repo_learning\MicroservicesAndEventSourcing\SM-Post\Post.Common\obj\Debug\netcoreapp3.1\Post.Common.csproj.AssemblyReference.cache
+C:\Users\eezesta\source\repo_learning\MicroservicesAndEventSourcing\SM-Post\Post.Common\obj\Debug\netcoreapp3.1\Post.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eezesta\source\repo_learning\MicroservicesAndEventSourcing\SM-Post\Post.Common\obj\Debug\netcoreapp3.1\Post.Common.AssemblyInfoInputs.cache
+C:\Users\eezesta\source\repo_learning\MicroservicesAndEventSourcing\SM-Post\Post.Common\obj\Debug\netcoreapp3.1\Post.Common.AssemblyInfo.cs
+C:\Users\eezesta\source\repo_learning\MicroservicesAndEventSourcing\SM-Post\Post.Common\obj\Debug\netcoreapp3.1\Post.Common.csproj.CoreCompileInputs.cache
+C:\Users\eezesta\source\repo_learning\MicroservicesAndEventSourcing\SM-Post\Post.Common\bin\Debug\netcoreapp3.1\Post.Common.deps.json
+C:\Users\eezesta\source\repo_learning\MicroservicesAndEventSourcing\SM-Post\Post.Common\bin\Debug\netcoreapp3.1\Post.Common.dll
+C:\Users\eezesta\source\repo_learning\MicroservicesAndEventSourcing\SM-Post\Post.Common\bin\Debug\netcoreapp3.1\Post.Common.pdb
+C:\Users\eezesta\source\repo_learning\MicroservicesAndEventSourcing\SM-Post\Post.Common\bin\Debug\netcoreapp3.1\CQRS.Core.dll
+C:\Users\eezesta\source\repo_learning\MicroservicesAndEventSourcing\SM-Post\Post.Common\bin\Debug\netcoreapp3.1\CQRS.Core.pdb
+C:\Users\eezesta\source\repo_learning\MicroservicesAndEventSourcing\SM-Post\Post.Common\obj\Debug\netcoreapp3.1\Post.Common.csproj.CopyComplete
+C:\Users\eezesta\source\repo_learning\MicroservicesAndEventSourcing\SM-Post\Post.Common\obj\Debug\netcoreapp3.1\Post.Common.dll
+C:\Users\eezesta\source\repo_learning\MicroservicesAndEventSourcing\SM-Post\Post.Common\obj\Debug\netcoreapp3.1\Post.Common.pdb
